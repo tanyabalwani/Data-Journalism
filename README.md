@@ -1,5 +1,6 @@
-# Data-Journalism
-Employment Situation of Graduates of Full-time UGC-funded Programmes by University, Level of Study, Employment Situation and Occupation
+# Data & Digital Journalism Group 3 Final Project
+
+Topic: Employment Situation of Graduates of Full-time UGC-funded Programmes by University, Level of Study, Employment Situation and Occupation
 
 ## Purpose
 
