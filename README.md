@@ -7,8 +7,9 @@ Our report takes a deep dive into the current job situation of graduates from UG
 
 ## Research questions
 
-Are there observable differences in the employment situation across different occupations over the years?
-Are there observable differences in the employment situation across different levels of study?
+  1. Are there observable differences in the employment situation across different occupations over the years?
+
+  2. Are there observable differences in the employment situation across different levels of study?
 
 The first research question was formulated to research on the consequential effect of protest and covid19 on the employment scenario for Hong Kong, but due to the lack of appropriate data on the topic, we chose to focus on the overall trend throughout the years and across different levels of study. 
 
