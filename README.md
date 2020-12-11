@@ -17,6 +17,6 @@ The first research question was formulated to research on the consequential effe
 The second question was formulated with an aim to understand the necessity for a postgraduate degree to successfully qualify for a job in a competitive job seeking environment. 
 
 
-You may read our article here: (insert link)
+You may read our article here: https://switchbrillo4.wixsite.com/com2303
 
-To read the full report, click here: (insert link)
+To read the full report, click here: (link)
